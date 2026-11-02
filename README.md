@@ -1,6 +1,6 @@
 # Hey, I'm Ye Yint (Nebula) 🚀
 
-### Incoming Computer Science Student @ Bangkok University | Self-Taught Developer | Builder
+### Incoming Computer Science Student | Self-Taught Developer | Builder
 
 I am a relentless learner obsessed with the intersection of software and hardware. While waiting for university to start, I am actively self-studying Computer Science, Machine Learning, and Electrical Engineering. 
 
